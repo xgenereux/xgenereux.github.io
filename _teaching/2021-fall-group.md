@@ -8,4 +8,4 @@ date: 2021-09-01
 location: "Montréal QC, CAN"
 ---
 
-I was the TA of Olivier Mila for the intro class to group theory.
+I was the TA of [Olivier Mila](http://crm.umontreal.ca/~mila/) for the intro class to group theory.
