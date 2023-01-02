@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Trivia"
-    url: /triva/
+  - title: "Other"
+    url: /other/
     
   - title: "CV"
     url: /cv/
