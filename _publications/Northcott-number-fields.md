@@ -1,6 +1,6 @@
 ---
 title: "On the Northcott property of Dedekind zeta functions"
-collection: publications
+collection: preprints
 permalink: /publication/Northcott-number-fields
 excerpt: 'Joint work with Matilde Lalin on the Northcott property of zeta functions over number fields'
 date: 2022-09-28
