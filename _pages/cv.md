@@ -25,12 +25,12 @@ Employment
   * Subject: Number Theory
   * Supervisor: Matilde Lal´ın
  
- * Mathematics research internship, 2020
+* Mathematics research internship, 2020
   * Université de Montréal
   * Subject: Mathematical Billiards
   * Supervisor: Egor Shelukhin
  
- * Mathematics research internship, 2019
+* Mathematics research internship, 2019
   * Université de Montréal
   * Subject: Applied Mathematics
   * Supervisor: V´eronique Hussin
