@@ -1,4 +1,3 @@
-
 ---
 title: "Teaching assistant: Rings and Modules"
 collection: teaching
