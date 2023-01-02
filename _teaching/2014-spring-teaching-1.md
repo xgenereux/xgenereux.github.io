@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching assistant: Group Theory"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2021-fall-group
+venue: "Université de Montréal, Département de mathématiques et statistique"
+date: 2021-09-01
+location: "Montréal QC, CAN"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I was the TA of Olivier Mila for the intro class to group theory.
