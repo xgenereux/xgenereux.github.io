@@ -8,4 +8,4 @@ date: 2022-09-01
 location: "Montréal QC, CAN"
 ---
 
-I was the TA of Matilde Lalin for the intro class to group theory. The course follows more or less the first few chapters of Dummit and Foote.
+I was the TA of [Matilde Lalín](https://dms.umontreal.ca/~mlalin/) for the intro class to group theory. The course follows more or less the first few chapters of Dummit and Foote.
