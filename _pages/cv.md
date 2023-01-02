@@ -17,8 +17,8 @@ Education
 Employment
 ======
 * Teacher, high school mathematics, 2021-
-  *  Alloprof
-  * Duties included: Tagging issues
+  * Alloprof
+  * Duties included: Helping Québec's students with their mathematical notions.
 
 * Mathematics research internship, 2021
   * Université de Montréal
