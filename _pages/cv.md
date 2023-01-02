@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV](https://louddy.github.io//cv/)"
 permalink: /cv/
 author_profile: true
 redirect_from:
