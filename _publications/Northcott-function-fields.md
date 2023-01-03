@@ -5,7 +5,7 @@ permalink: /publication/Northcott-function-fields
 excerpt: 'Joint work with Matilde Lalin and Wanlin Li'
 date: 2022-10
 venue: 'Finite Fields and Their Applications'
-venuestring: 'Published in '
+venuestring: 'Published in'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1071579722000892'
 citation: 'Xavier Généreux, Matilde Lalín, Wanlin Li,
 On the Northcott property of zeta functions over function fields,
