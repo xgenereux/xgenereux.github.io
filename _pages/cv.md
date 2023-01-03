@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Curriculum Vitae](https://louddy.github.io//files/curriculum_vitae.pdf)
+======
 
 Education
 ======
