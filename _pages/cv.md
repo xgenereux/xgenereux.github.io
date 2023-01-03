@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: '[Curriculum Vitae](https://louddy.github.io//cv/)'
+title: 'Curriculum Vitae'
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-[Curriculum Vitae](https://louddy.github.io//files/curriculum_vitae.pdf)
-======
+Click [here](https://louddy.github.io//files/curriculum_vitae.pdf) for pdf.
 
 Education
 ======
