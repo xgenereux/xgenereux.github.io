@@ -31,7 +31,7 @@ In other words, our decisions are supported by something more than: *trust that 
 As an [example](https://www.youtube.com/watch?v=8GPy_UMV-08), we justify the appearance of $\pi$ in the result with the use of a circle in the proof.  
 
 ### Why this can be motivated
-If we know basic linear algebra, I think the first proof is justifiable.
+If we know basic linear algebra, I think we can motivate the proof steps.
 
 1. Setup: Two lines $y=m_1 x$ and $y = m_2 x$.
 2. We want to use a scalar product to check if they are perpendicular: Thus we instantiate the subgoal of generating two vectors along the lines.
@@ -50,7 +50,7 @@ The question of whether this proof justifies the fact that  $m_2 = - \frac{1}{m_
 ## A justified proof
 
 #### What does it mean to take the *multiplicative* inverse of the slope 
-Consider a line $y = mx$, it's inverse, found by isolating x and then swapping $x$ and $y$ would be $y=x/m$. Since the notion of perpendicular is geometric, it is fair to ask what geometrical interpretation of the inverse we have. Here, we know that the inverse is a reflexion about the line $y=x$.  
+Consider a line $y = mx$, it's inverse, found by isolating x and then swapping $x$ and $y$ would be $y=x/m$. Since "perpendicular" is a geometric notion, it is fair to ask what geometrical interpretation of the inverse we have. Here, we know that the inverse is a reflexion about the line $y=x$.  
 
 #### What does it mean to take the *additive* inverse of the slope 
 Now, taking the additive inverse of the slope gives the line $y=-mx$. Geometrically, this is a reflexion through the $y$-axis. (In this case this is also a reflection through the $x$-axis, but we focus on the $y$-axis for now.)
