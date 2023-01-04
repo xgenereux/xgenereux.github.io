@@ -62,7 +62,7 @@ Assuming for now that the slope is $0 < m \leq 1$, that is, the line passes unde
 
 It is clear from this drawing that the angles $\alpha$ and $\beta$ sum to $45$ degrees. This makes for a cute visual proof
  
-![animation](https://github.com/Louddy/louddy.github.io/blob/master/images/graph_final_gif.gif)
+![animation](https://louddy.github.io//images/graph_final_gif.gif)
 
 From this, it is not hard to make a complete proof by considering the other cases where $m>1$,  $-1 \leq  m < 0$  and $m<-1$.
 
