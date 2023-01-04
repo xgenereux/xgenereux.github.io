@@ -1,7 +1,7 @@
 ---
 title: 'Perpendicular lines'
 date: 2023-01-04
-permalink: /posts/perpendicular/
+permalink: /posts/2023/01/perp/
 tags:
   - motivated proofs
 ---
