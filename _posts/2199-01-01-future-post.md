@@ -19,7 +19,7 @@ When asked the question initially, my own reflex was very similar to the most po
 
 $$ (1,m_1) \cdot (1,m_2) = 0 \iff 1+m_1m_2 = 0 \iff m_2 = -\frac{1}{m_1}. $$
 
-Even though it seems possible to write a motivated version of this argument, I would argue that a justified proof would be hard to attain. Here I make the distinction between my naive and informal notions of motivated and justified.
+Even though it seems possible to write a motivated version of this argument, I would argue that a justified proof would be hard to attain. Here I make a distinction between my naive and informal notions of motivated and justified.
 
 **Motivated proof** : A proof where the choice of each proof step is supported. For example these could be
 - Rephrasing to converge syntactically towards the goal. (e.g rewriting the definition of continuity in a real analysis problem)
