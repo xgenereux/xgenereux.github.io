@@ -1,11 +1,4 @@
 
----
-title: 'Perpendicular lines'
-date: 2023-01-04
-permalink: /posts/perpendicular
-tags:
-  - motivated proofs
----
 
 Perpendicular lines
 =====
