@@ -8,7 +8,7 @@ tags:
 
 Perpendicular lines
 =====
-A fact about lines, taught midway through highschool where I live, is that two lines with slope $m$ and $-1/m$ are perpendicular. As it is often the case with simple facts, we can show this in many different ways by using more or less justified techniques. In this document, I want to explore the difference between what I understand by a *justified proof* and a *motivated proof*.
+A fact about lines, taught midway through highschool where I live, is that two lines with slope $m$ and $-1/m$ are perpendicular. As it is often the case with simple facts, we can show this in many different ways by using more or less justified techniques. In this document, I want to explore different proofs that are well justified and motivated.
 
 Finally, in these notes I will assume that the lines of our problem all pass through the origin. Most proofs use the argument that translation doesn't change angles which I think is fair to assume.
 
@@ -70,7 +70,7 @@ From this, it is not hard to make a complete proof by considering the other case
 
 ### What I learnt from this proof
 
-This proof is interesting but it has flaws. I feel it does a good job at justifying why the additive inverse and the multiplicative inverse might come up in a question about perpendicular lines, so in that sense, it is a justified proof. As for motivation of the steps, we are not too far off. Indeed, since *perpendicular* is a geometric notion, we are motivated to think about the transformations $mx \to -mx$ and $mx \to x/m$ geometrically. Translating the reflexions into information about angles, we can deduce that the total of the angles must be $90$ degrees.
+This proof is interesting but it has flaws. I feel it does a good job at justifying why the additive inverse and the multiplicative inverse might come up in a question about perpendicular lines, so in that sense, it is a justified proof. As for motivation of the steps, we are not too far off. Indeed, since *perpendicular* is a geometric notion, we are motivated to think about the transformations $mx \mapsto -mx$ and $mx \mapsto x/m$ geometrically. Translating the reflexions into information about angles, we can deduce that the total of the angles must be $90$ degrees.
 
 That being said, one could argue that this proof is not really formal: Here, we sweep under the rug the fact that we really get the reflexions we affirmed together with other technicalities, although none of this is really hard to prove. Here, the justification and motivation gained is balanced by the fact that we lost the really straightforward proof given at the beginning.
 
@@ -80,7 +80,7 @@ Realistically, a computer could well have solved this question only using the fi
 
 On the other hand, there is a point to achieving our motivated proof. The questions we asked led naturally to a new proof because they were important elements in our set-up. Furthermore, it is not unreasonable to think that a machine would think to use these facts because it could have detected that the notion *perpendicular* has also a *geometric* tag. It would then know to translate the information of $-1/m_1$ into its *geometric* interpretation of reflexions.
 
-In the end, I feel that both notions are closely related. The justified versions of the proofs I looked at gave new insight on the result while their motivated analogue just provided another type of insight, just not geometric!
+
 
 
 
