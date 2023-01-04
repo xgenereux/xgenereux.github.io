@@ -56,7 +56,7 @@ Consider a line $y = mx$, it's inverse, found by isolating x and then swapping $
 Now, taking the additive inverse of the slope gives the line $y=-mx$. Geometrically, this is a reflexion through the $y$-axis. (In this case this is also a reflection through the $x$-axis, but we focus on the $y$-axis for now.)
 
 #### Combining the two
-Assuming for now that the slope is $0 < m \leq 1$, that is, the line passes under between $y=x$ and the $x$-axis in the first quadrant, we have the following scenario test
+Assuming for now that the slope is $0 < m \leq 1$, that is, the line passes under between $y=x$ and the $x$-axis in the first quadrant, we have the following scenario 
 
 <img src="perp_slope_0_m_1.png" alt="drawing" width="600"/>
 
