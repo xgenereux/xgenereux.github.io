@@ -45,7 +45,7 @@ Here the first three moves were used because we needed to change the hypotheses 
 Then, we do basic algebra manipulations of isolating $m_2$ to converge on the goal.
 
 ### What is missing from a justified proof
-The question of whether this proof justifies the fact that  $m_2 = - \frac{1}{m_1}$ is one I find particularly interesting. In the point of view of our current proof, the reason we have such a result is because it is the solution of the equation $1+m_1m_2 = 0$. But the issue I see here is that the solution $-\frac{1}{m_1}$ is not any solution. Indeed I felt like there must be a reason why the additive inverse and the multiplicative inverse might come up in a question about perpendicular lines. Using this insight, we can provide a different proof that also has the advantage of not using vectors, which are not available to highschool students who first learn about this result before vectors.
+The question of whether this proof justifies the fact that  $m_2 = - \frac{1}{m_1}$ is one I find particularly interesting. In the point of view of our current proof, the reason we have such a result is because it is the solution of the equation $1+m_1m_2 = 0$. But the issue I see here is that the solution $-\frac{1}{m_1}$ is not just any solution. Indeed I felt like there must be a reason why the additive inverse and the multiplicative inverse might come up in a question about perpendicular lines. Using this insight, we can provide a different proof that also has the advantage of not using vectors, which are not available to highschool students who first learn about this result before vectors.
 
 ## A justified proof
 
