@@ -78,7 +78,7 @@ That being said, one could argue that this proof is not really formal: Here, we 
 
 Realistically, a computer could well have solved this question only using the first proof, after all, it is fair to assume that, unlike a child, we have linear algebra in our library. Furthermore, the moves were motivated: we only translated the problem in a single theory and then applied basic manipulations. To be a bit more concrete, the computer could have noticed that the notion *perpendicular* has a linear algebra interpretation, this could be done by attaching a *linear algebra* tag to such notions. With this point of view, we translate other elements that possess the *linear algebra* tag in their linear algebra interpretation to create a straightforward goal to show.
 
-On the other hand, there is a point to achieving our motivated proof. The questions we asked led naturally to a new proof because they were important elements in our set-up. Furthermore, it is not unreasonable to think that a machine would think to use these facts because it could have detected that the notion *perpendicular* has also a *geometric* tag. It would then know to translate the information of $-1/m_1$ into its *geometric* interpretation of reflexions.
+On the other hand, there is a point to achieving our motivated proof. The questions we asked led naturally to a new proof because they were important elements in our set-up. Furthermore, it is not unreasonable to think that a machine would think to use these facts because it could have detected that the notion *perpendicular* has also a *geometric* tag. It would then know to translate the information of $-1/m$ into its *geometric* interpretation of reflexions.
 
 
 
