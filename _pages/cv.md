@@ -12,6 +12,8 @@ Education
 ======
 * B.S. in computer science and mathematics, Univeristé de Montréal, 2021
 * M.S. in pure mathematics, Univeristé de Montréal, expected 2023
+  * Supervision: Matilde Lalín
+  * Subject: Number theory
 
 Employment
 ======
@@ -22,7 +24,7 @@ Employment
 * Mathematics research internship, 2021
   * Université de Montréal
   * Subject: Number Theory
-  * Supervisor: Matilde Lal´ın
+  * Supervisor: Matilde Lalín
  
 * Mathematics research internship, 2020
   * Université de Montréal
@@ -32,7 +34,7 @@ Employment
 * Mathematics research internship, 2019
   * Université de Montréal
   * Subject: Applied Mathematics
-  * Supervisor: V´eronique Hussin
+  * Supervisor: Véronique Hussin
   
 
 Publications
