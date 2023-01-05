@@ -49,13 +49,13 @@ The question of whether this proof justifies the fact that  $m_2 = - \frac{1}{m_
 
 ## A justified proof
 
-#### What does it mean to take the *multiplicative* inverse of the slope 
+### What does it mean to take the *multiplicative* inverse of the slope 
 Consider a line $y = mx$, it's inverse, found by isolating x and then swapping $x$ and $y$ would be $y=x/m$. Since "perpendicular" is a geometric notion, it is fair to ask what geometrical interpretation of the inverse we have. Here, we know that the inverse is a reflexion about the line $y=x$.  
 
-#### What does it mean to take the *additive* inverse of the slope 
+### What does it mean to take the *additive* inverse of the slope 
 Now, taking the additive inverse of the slope gives the line $y=-mx$. Geometrically, this is a reflexion through the $y$-axis. (In this case this is also a reflection through the $x$-axis, but we focus on the $y$-axis for now.)
 
-#### Combining the two
+### Combining the two
 Assuming for now that the slope is $0 < m \leq 1$, that is, the line passes under between $y=x$ and the $x$-axis in the first quadrant, we have the following scenario 
 
 <img src="https://louddy.github.io//images/perp_slope_0_m_1.png" alt="drawing" width="600"/>
