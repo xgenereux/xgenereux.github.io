@@ -2,10 +2,10 @@
 title: "On the Northcott property of Dedekind zeta functions"
 collection: preprints
 permalink: /publication/Northcott-number-fields
-excerpt: 'Joint work with Matilde Lalin on the Northcott property of zeta functions over number fields'
+excerpt: 'Joint work with Matilde Lalín on the Northcott property of zeta functions over number fields'
 date: 2022-09-28
-venue: 'submitted for publication.'
-venuestring: 'Preprint,'
+venue: 'The Ramanujan Journal.'
+venuestring: 'To appear in'
 paperurl: 'https://arxiv.org/abs/2209.13854'
 citation: 'Généreux, Xavier, and Matilde Lalín. "On the Northcott property of Dedekind zeta functions." arXiv preprint arXiv:2209.13854 (2022).'
 ---
