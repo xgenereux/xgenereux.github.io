@@ -10,14 +10,17 @@ Click [here](https://louddy.github.io//files/curriculum_vitae.pdf) for pdf.
 
 Education
 ======
-* B.S. in computer science and mathematics, Univeristé de Montréal, 2021
-* M.S. in pure mathematics, Univeristé de Montréal, expected 2023
+* BSc in computer science and mathematics, Univeristé de Montréal, 2021
+* MSc in pure mathematics, Univeristé de Montréal, 2023
   * Supervision: Matilde Lalín
   * Subject: Number theory
+* PhD in theoretical computer science, Ludwig-Maximilians-Universität München, current
+  * Supervision: Jasmin Blanchette
+  * Subject: Theorem proving and formalisation
 
 Employment
 ======
-* Teacher, high school mathematics, 2021-
+* Teacher, high school mathematics, 2021-2023
   * Alloprof
   * Duties included: Helping Québec's students with their mathematical notions.
 
@@ -57,6 +60,7 @@ Teaching
   
 Grants and Prizes
 ======
+* Doctoral training scholarship, FRQNT, 2023, \$100000
 * End of master's studies grant, ESP, 2022, \$6000
 * Scholarship Award, Desjardins, 2022, \$2000
 * Undergraduate Summer Grant, ISM, 2021, \$5000
