@@ -60,7 +60,7 @@ Teaching
   
 Grants and Prizes
 ======
-* Doctoral training scholarship, FRQNT, 2023, \$100000
+* Doctoral training scholarship, FRQNT, 2023-2027, \$100 000
 * End of master's studies grant, ESP, 2022, \$6000
 * Scholarship Award, Desjardins, 2022, \$2000
 * Undergraduate Summer Grant, ISM, 2021, \$5000
