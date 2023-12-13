@@ -14,6 +14,7 @@ Education
 * MSc in pure mathematics, Univeristé de Montréal, 2023
   * Supervision: Matilde Lalín
   * Subject: Number theory
+  * Thesis: [La propriété de Northcott de fonctions zêta sur des familles d'extensions](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/32243)
 * PhD in theoretical computer science, Ludwig-Maximilians-Universität München, current
   * Supervision: Jasmin Blanchette
   * Subject: Theorem proving and formalisation
