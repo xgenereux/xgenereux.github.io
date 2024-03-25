@@ -1,16 +1,16 @@
 ---
 title: "On the Northcott property of Dedekind zeta functions"
-collection: preprints
+collection: publications
 permalink: /publication/Northcott-number-fields
 excerpt: 'Joint work with Matilde Lalín on the Northcott property of zeta functions over number fields'
-date: 2023-11-28
+date: 2024-01-03
 venue: 'The Ramanujan Journal'
-venuestring: 'To appear in'
-paperurl: 'https://arxiv.org/abs/2209.13854'
-citation: 'Généreux, Xavier, and Matilde Lalín. "On the Northcott property of Dedekind zeta functions." arXiv preprint arXiv:2209.13854 (2022).'
+venuestring: 'Published in'
+paperurl: 'https://link.springer.com/article/10.1007/s11139-023-00809-y'
+citation: 'Généreux, Xavier, and Matilde Lalín. "On the Northcott property of Dedekind zeta functions", Ramanujan J. 63 (2024), no. 4, 1135--1178.
 ---
 The Northcott property for special values of Dedekind zeta functions and more general motivic L-functions was defined by Pazuki and Pengo. We investigate this property for any complex evaluation of Dedekind zeta functions. The results are more delicate and subtle than what was proven for the function field case in previous work of Li and the authors, since they include some surprising behavior in the neighborhood of the trivial zeros. The techniques include a mixture of analytic and computer assisted arguments.
 
-[Download paper here](https://arxiv.org/pdf/2209.13854.pdf)
+[Download paper here](https://link.springer.com/article/10.1007/s11139-023-00809-y)
 
-Recommended citation: Généreux, Xavier, and Matilde Lalín. "On the Northcott property of Dedekind zeta functions." arXiv preprint arXiv:2209.13854 (2022).
+Recommended citation: Généreux, Xavier, and Matilde Lalín. "On the Northcott property of Dedekind zeta functions", Ramanujan J. 63 (2024), no. 4, 1135--1178.
