@@ -2,7 +2,7 @@
 title: "On the Northcott property of Dedekind zeta functions"
 collection: publications
 permalink: /publication/Northcott-number-fields
-excerpt: 'Joint work with Matilde Lalín on the Northcott property of zeta functions over number fields'
+excerpt: 'Joint work with Matilde Lalín'
 date: 2024-01-03
 venue: 'The Ramanujan Journal'
 venuestring: 'Published in'
