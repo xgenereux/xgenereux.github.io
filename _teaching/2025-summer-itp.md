@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-summer-itp
 venue: "Ludwig-Maximilians-Universität München, Lehr- und Forschungseinheit für Theoretische Informatik und Theorembeweisen"
-date: 2024-04-01
+date: 2025-04-01
 location: "Munich, DE"
 ---
 
