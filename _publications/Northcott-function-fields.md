@@ -2,7 +2,7 @@
 title: "On the Northcott property of zeta functions over function fields"
 collection: publications
 permalink: /publication/Northcott-function-fields
-excerpt: 'Joint work with Matilde Lalin and Wanlin Li'
+excerpt: 'Joint work with Matilde Lalín and Wanlin Li'
 date: 2022-10-01
 venue: 'Finite Fields and Their Applications'
 venuestring: 'Published in'
