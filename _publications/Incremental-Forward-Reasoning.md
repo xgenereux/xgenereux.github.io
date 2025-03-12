@@ -7,7 +7,7 @@ venue: 'CADE 2025'
 venuestring: 'Submitted to'
 paperurl: 'https://github.com/JLimperg/paper-aesop-forward/releases/download/submission/paper.pdf'
 citation: 'Jannis Limperg and Xavier Généreux,
-ncremental Forward Reasoning for White-Box Proof Search,
+Incremental Forward Reasoning for White-Box Proof Search,
 2025,'
 ---
 Several proof assistants provide automation tactics based on
