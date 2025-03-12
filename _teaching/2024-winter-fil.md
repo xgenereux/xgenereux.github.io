@@ -2,7 +2,7 @@
 title: "Practical: Formalization In Lean"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2025-winter-fil
+permalink: /teaching/2024-winter-fil
 venue: "Ludwig-Maximilians-Universität München, Lehr- und Forschungseinheit für Theoretische Informatik und Theorembeweisen"
 date: 2024-10-01
 location: "Munich, DE"
