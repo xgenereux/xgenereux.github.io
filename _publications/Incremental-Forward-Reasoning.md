@@ -1,3 +1,4 @@
+---
 title: "Incremental Forward Reasoning for White-Box Proof Search"
 collection: publications
 permalink: /publication/Incremental-Forward-Reasoning
