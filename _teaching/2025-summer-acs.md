@@ -8,5 +8,5 @@ date: 2025-04-01
 location: "Munich, DE"
 ---
 
-I led a seminar on the application of algebra to computer science.
+I will lead a seminar on the application of algebra to computer science.
 See the [course's page](https://www.tcs.ifi.lmu.de/lehre/ss-2025/algebra_de.html).
