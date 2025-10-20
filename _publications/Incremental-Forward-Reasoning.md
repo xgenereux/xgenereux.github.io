@@ -3,10 +3,10 @@ title: "Incremental Forward Reasoning for White-Box Proof Search"
 collection: publications
 permalink: /publication/Incremental-Forward-Reasoning
 excerpt: 'Joint work with Jannis Limperg'
-date: 2025-03-01
-venue: 'CADE 2025'
+date: 2025-10-01
+venue: 'TACAS 2026'
 venuestring: 'Submitted to'
-paperurl: 'https://github.com/JLimperg/paper-aesop-forward/releases/download/submission/paper.pdf'
+paperurl: ''
 citation: 'Jannis Limperg and Xavier Généreux,
 Incremental Forward Reasoning for White-Box Proof Search,
 2025,'
@@ -23,5 +23,3 @@ work by taking advantage of similarities between successive goals. For
 each goal, we cache partial applications of forward rules in a custom data
 structure that enables efficient updates. Our technique is compatible with
 any search strategy and most logics. It has been implemented in Aesop.
-
-[Download paper here](https://github.com/JLimperg/paper-aesop-forward/releases/download/submission/paper.pdf)
