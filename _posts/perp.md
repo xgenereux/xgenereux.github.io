@@ -52,11 +52,11 @@ Now, taking the additive inverse of the slope gives the line $y=-mx$. Geometrica
 #### Combining the two
 Assuming for now that the slope is $0 < m \leq 1$, that is, the line passes under between $y=x$ and the $x$-axis in the first quadrant, we have the following scenario test
 
-<img src="https://github.com/Louddy/louddy.github.io/blob/master/perp_slope_0_m_1.png" alt="drawing" width="600"/>
+<img src="https://github.com/xgenereux/xgenereux.github.io/blob/master/perp_slope_0_m_1.png" alt="drawing" width="600"/>
 
 It is clear from this drawing that the angles $\alpha$ and $\beta$ sum to $45$ degrees. This makes for a cute visual proof
  
-![animation](https://github.com/Louddy/louddy.github.io/blob/master/images/graph_final_gif.gif)
+![animation](https://github.com/xgenereux/xgenereux.github.io/blob/master/images/graph_final_gif.gif)
 
 From this, it is not hard to make a complete proof by considering the other cases where $m>1$,  $-1 \leq  m < 0$  and $m<-1$.
 
