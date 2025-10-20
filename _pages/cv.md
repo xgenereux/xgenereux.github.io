@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Click [here](https://louddy.github.io//files/curriculum_vitae.pdf) for pdf.
+Click [here](https://xgenereux.github.io//files/curriculum_vitae.pdf) for pdf.
 
 Education
 ======
