@@ -5,7 +5,7 @@ permalink: /publication/Incremental-Forward-Reasoning
 excerpt: 'Joint work with Jannis Limperg'
 date: 2025-10-01
 venue: 'TACAS 2026'
-venuestring: 'Submitted to'
+venuestring: 'To appear in'
 paperurl: ''
 citation: 'Jannis Limperg and Xavier Généreux,
 Incremental Forward Reasoning for White-Box Proof Search,
